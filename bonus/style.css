@@ -1,0 +1,67 @@
+.debug [class*="col-"]{
+  height: 100%;
+}
+
+.debug{
+  height: 100px;
+}
+
+.red{
+  background-color: red;
+}
+
+.orange{
+  background-color: orangered;
+}
+
+.l_orange{
+  background-color: orange;
+}
+
+.yellow{
+  background-color: #ffcc23;
+}
+
+.l_yellow{
+  background-color: #fef423;
+}
+
+.black{
+  background-color: black;
+}
+
+.brown{
+  background-color: #611f00;
+}
+
+.l_brown{
+  background-color: #aa4d00;
+}
+
+.purple{
+  background-color: #8620d9;
+}
+
+.green{
+  background-color: #0cb800;
+}
+
+.l_green{
+  background-color: #82e101;
+}
+
+.celeste{
+  background-color: #3b6afe;
+}
+
+.l_celeste{
+  background-color: #63bcff;
+}
+
+.pink{
+  background-color: #feb485;
+}
+
+.l_pink{
+  background-color: #ffe29c;
+}

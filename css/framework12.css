@@ -69,49 +69,49 @@
 
 
 .off_12{
-  margin: 100%;
+  margin-left: 100%;
 }
 
 .off_11{
-  margin: calc((100% / 12) * 11);
+  margin-left: calc((100% / 12) * 11);
 }
 
 .off_10{
-  margin: calc((100% / 12) * 10);
+  margin-left: calc((100% / 12) * 10);
 }
 
 .off_9{
-  margin: calc((100% / 12) * 9);
+  margin-left: calc((100% / 12) * 9);
 }
 
 .off_8{
-  margin: calc((100% / 12) * 8);
+  margin-left: calc((100% / 12) * 8);
 }
 
 .off_7{
-  margin: calc((100% / 12) * 7);
+  margin-left: calc((100% / 12) * 7);
 }
 
 .off_6{
-  margin: 50%;
+  margin-left: 50%;
 }
 
 .off_5{
-  margin: calc((100% / 12) * 5);
+  margin-left: calc((100% / 12) * 5);
 }
 
 .off_4{
-  margin: calc((100% / 12) * 4);
+  margin-left: calc((100% / 12) * 4);
 }
 
 .off_3{
-  margin: calc((100% / 12) * 3);
+  margin-left: calc((100% / 12) * 3);
 }
 
 .off_2{
-  margin: calc((100% / 12) * 2);
+  margin-left: calc((100% / 12) * 2);
 }
 
 .off_1{
-  margin: calc(100% / 12);
+  margin-left: calc(100% / 12);
 }
